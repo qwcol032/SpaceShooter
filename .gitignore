@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-SpaceShooter2D/[Ll]ibrary/
-SpaceShooter2D/[Tt]emp/
-SpaceShooter2D/[Oo]bj/
-SpaceShooter2D/[Bb]uild/
-SpaceShooter2D/[Bb]uilds/
-SpaceShooter2D/[Ll]ogs/
-SpaceShooter2D/[Uu]ser[Ss]ettings/
+SpaceShooter/[Ll]ibrary/
+SpaceShooter/[Tt]emp/
+SpaceShooter/[Oo]bj/
+SpaceShooter/[Bb]uild/
+SpaceShooter/[Bb]uilds/
+SpaceShooter/[Ll]ogs/
+SpaceShooter/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
